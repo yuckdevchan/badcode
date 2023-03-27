@@ -12,4 +12,5 @@ int main() {
     i += 1;
   }
   printf("String length: %d", len)
+  return 0;
 }
